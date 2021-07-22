@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922333331381",
+    "project_id": "schat-6d92b",
+    "storage_bucket": "schat-6d92b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922333331381:android:c7f8461316f2a9c335a3fc",
+        "android_client_info": {
+          "package_name": "com.example.schat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922333331381-39nmi42flsq692d71ub0khhc6dnb02eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITp93kB8bSD9-Ph5hyznUR63pkH6bspE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922333331381-39nmi42flsq692d71ub0khhc6dnb02eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
