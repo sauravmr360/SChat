@@ -12,8 +12,10 @@ SChat (Chat App) is a cross-platform, instant messaging application which provid
 <h2>Phone Validation (OTP)</h2>
 <br>
 <div>&nbsp &nbsp<img src="https://user-images.githubusercontent.com/61406597/126835799-34a56915-b9a1-464b-8af7-1cc08bf1909a.jpeg" height="500px" width="280px"/> &nbsp &nbsp 
-<img src="https://user-images.githubusercontent.com/61406597/126835802-5ea2c565-5b48-46ad-91dc-5a75f2b8965f.jpeg" height="500px" width="280px"/> 
-  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <img src="https://user-images.githubusercontent.com/61406597/126835805-9c24062a-493f-4ddc-8bb1-72b771c2be18.jpeg" height="500px" width="280px"/>
+<img src="https://user-images.githubusercontent.com/61406597/126835802-5ea2c565-5b48-46ad-91dc-5a75f2b8965f.jpeg" height="500px" width="280px"/> </div>
+<br>
+<div>
+  &nbsp &nbsp <img src="https://user-images.githubusercontent.com/61406597/126835805-9c24062a-493f-4ddc-8bb1-72b771c2be18.jpeg" height="500px" width="280px"/>
 </div>
 <h2>Profile Screen</h2>
   <h3><ul><li>You can Upload photo and set your profile name </li></ul></h3>
